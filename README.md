@@ -7,7 +7,7 @@ Road object identification project run by a student team at the Babes-Bolyai Uni
 **Dataset**
 
 Taken from the great people at comma.ai's comma10k project under the MIT license.
-Please support their project for they are doing a
+Please support their project for they are doing an amazing job at furthering road safety and humanity.
 
 **Instruction guide**
 
