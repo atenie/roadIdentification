@@ -26,7 +26,9 @@ Actual processing of images into a working app as well.
 **Team**
 
 Tenie Alexandru
+
 Căluian Bianca
+
 Șopterean-Pop Adrian
 
 **Licensing**
